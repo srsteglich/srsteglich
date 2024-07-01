@@ -47,7 +47,7 @@ Clica no meu Curriculo Digital: https://srsteglich.github.io/Curriculo-Digital/#
 ### OS e Arquiteturas
 <div style="display: inline_block">       
       <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> &emsp;      
-      <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> &emsp;         
+      <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> &emsp;       
       <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> &emsp;      
       <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> &emsp;            
       <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &emsp;      
