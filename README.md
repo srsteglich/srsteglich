@@ -6,7 +6,7 @@
 &emsp;&emsp;&emsp;Adoro a área de TI na parte de desenvolvimento de sistemas(Full e Back) que oferecem as novas soluções tecnológicas e também o banco de dados da família 'SQL' que facilita a busca da informação.<br/>
 
 ## Portfólio
-Clica no meu Curriculo Digital: https://srsteglich.github.io/Curriculo-Digital/#
+Clica o meu Curriculo Digital: https://srsteglich.github.io/Curriculo-Digital/#
 
 ## As Tecnologias 
 ### Experiência em Programação
