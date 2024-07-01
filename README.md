@@ -30,7 +30,8 @@ Clica no meu Curriculo Digital: https://srsteglich.github.io/Curriculo-Digital/#
 ### Banco de Dados
 <div style="display: inline_block">  
       <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &emsp;                
-      <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <br/><br/>
+      <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
+      <img align="center" height="50" width="50" src="https://cdnjs.cloudflare.com/ajax/libs/postgrest-client/1.1.2/postgrest-client.min.js" /> <br/><br/>
 </div>   
           
 ### Conhecimento de Estudos
