@@ -1,7 +1,7 @@
 # Sérgio Renato Steglich
 
 ## Olá Redes... 👋
-&emsp;&emsp;&emsp;Sou deficiente auditivo e oralizado(comunicação normal), sou de Santo Ângelo/RS, moro em Florianópolis, tenho mais de 14 anos de experiência em desenvolvimento de sistemas.<br/>
+&emsp;&emsp;&emsp;Sou deficiente auditivo e oralizado(comunicação normal), sou de Santo Ângelo/RS, moro em Florianópolis, tenho mais de 22 anos de experiência em desenvolvimento de sistemas.<br/>
 &emsp;&emsp;&emsp;Fiz faculdade de Análise de Sistemas pela SEIC e Administração em gestão de Sistemas de Informação pela Estácio de Sá e ainda fiz curso técnico de Desenvolvimento de Sistemas pela IFSC.<br/>
 &emsp;&emsp;&emsp;Adoro a área de TI na parte de desenvolvimento de sistemas(Full e Back) que oferecem as novas soluções tecnológicas e também o banco de dados da família 'SQL' que facilita a busca da informação.<br/>
 
