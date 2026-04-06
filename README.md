@@ -2,7 +2,8 @@
 
 ## Olá Redes... 👋
 &emsp;&emsp;&emsp;Sou deficiente auditivo e oralizado(comunicação normal), sou de Santo Ângelo/RS, moro em Florianópolis, tenho mais de 22 anos de experiência em desenvolvimento de sistemas.<br/>
-&emsp;&emsp;&emsp;Fiz faculdade de Análise de Sistemas pela SEIC e Administração em gestão de Sistemas de Informação pela Estácio de Sá e ainda fiz curso técnico de Desenvolvimento de Sistemas pela IFSC.<br/>
+&emsp;&emsp;&emsp;Fiz curso superior de Análise de Sistemas pela Faculdade SEIC e Administração em gestão de Sistemas de Informação pela faculdade Estácio de Sá e ainda fiz curso técnico de Desenvolvimento de Sistemas pela IFSC.<br/>
+&emsp;&emsp;&emsp;Estou fazendo Pós-Graduação Desenvolvimento de Sistemas com Java e PHP pela faculdade Libano.<br/>
 &emsp;&emsp;&emsp;Adoro a área de TI na parte de desenvolvimento de sistemas(Full e Back) que oferecem as novas soluções tecnológicas e também o banco de dados da família 'SQL' que facilita a busca da informação.<br/>
 
 ## Portfólio
